@@ -1,0 +1,23 @@
+{
+  "report": {
+    "title": "Monthly Sales Report",
+    "formats": ["pdf", "html", "excel", "csv"],
+    "schedule": "monthly",
+    "schedule_day": 1,
+    "schedule_time": "09:00"
+  },
+  "data": {
+    "source": "sample_data.csv",
+    "type": "csv",
+    "encoding": "utf-8"
+  },
+  "output": {
+    "directory": "./output",
+    "filename_format": "report_{timestamp}"
+  },
+  "email": {
+    "enabled": false,
+    "recipients": ["user@example.com"],
+    "subject": "Your Monthly Report"
+  }
+}
