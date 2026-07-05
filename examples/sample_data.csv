@@ -1,0 +1,11 @@
+Date,Product,Sales,Units,Region
+2024-01-01,Laptop,15000,5,North
+2024-01-01,Mouse,500,50,North
+2024-01-01,Keyboard,800,20,South
+2024-01-02,Monitor,2000,10,North
+2024-01-02,Laptop,15000,4,South
+2024-01-02,Headphones,300,15,East
+2024-01-03,Keyboard,800,25,West
+2024-01-03,Mouse,500,60,North
+2024-01-03,Laptop,15000,6,South
+2024-01-04,Monitor,2000,8,East
